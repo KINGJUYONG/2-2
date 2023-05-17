@@ -1,0 +1,26 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "c:\\Users\\KINGJUYONG\\Desktop\\과제\\2학년 2학기\\웹 프로그래밍(천인국 교수님)\\#1 쇼핑몰 만들기",
+      "environment": [],
+      "program": "c:\\Users\\KINGJUYONG\\Desktop\\과제\\2학년 2학기\\웹 프로그래밍(천인국 교수님)\\#1 쇼핑몰 만들기\\build\\Debug\\outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "externalConsole": false,
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
